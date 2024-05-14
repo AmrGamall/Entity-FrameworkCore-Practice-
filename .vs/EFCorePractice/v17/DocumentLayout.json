@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\instructorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\instructorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|e:\\c41 route\\test\\efcore practice\\efcorepractice\\efcorepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\migrations\\20240511152507_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\migrations\\20240511152507_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\migrations\\20240511155455_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\migrations\\20240511155455_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511155412_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCorePractice\\Migrations\\20240511155412_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\migrations\\itidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\migrations\\itidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\contexts\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\contexts\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\configurations\\instructorconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\configurations\\instructorconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\configurations\\studentcourseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\configurations\\studentcourseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\efcorepractice\\configurations\\instructorcourseconfogurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1334BA8-AB9A-447A-9E02-25AC84377DE5}|EFCorePractice\\EFCorePractice.csproj|solutionrelative:efcorepractice\\configurations\\instructorcourseconfogurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\Instructor.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Instructor.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:42:22.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Program.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Program.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Program.cs",
+              "RelativeToolTip": "EFCorePractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEBAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:41:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\Department.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Department.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\Department.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:52:43.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\Course.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Course.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:35:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorCourse.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\InstructorCourse.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\InstructorCourse.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\InstructorCourse.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\InstructorCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:37:36.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\Student.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Student.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:33:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\StudentCourse.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:37:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Entities\\Topic.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Entities\\Topic.cs",
+              "RelativeToolTip": "EFCorePractice\\Entities\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:06:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240511152507_intialcreate.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511152507_intialcreate.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Migrations\\20240511152507_intialcreate.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511152507_intialcreate.cs",
+              "RelativeToolTip": "EFCorePractice\\Migrations\\20240511152507_intialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:46:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240511155412_initialCreate.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511155412_initialCreate.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Migrations\\20240511155412_initialCreate.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511155412_initialCreate.cs",
+              "RelativeToolTip": "EFCorePractice\\Migrations\\20240511155412_initialCreate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:54:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240511155455_update.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511155455_update.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Migrations\\20240511155455_update.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\20240511155455_update.cs",
+              "RelativeToolTip": "EFCorePractice\\Migrations\\20240511155455_update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:54:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EFCorePractice\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:46:11.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "EFCorePractice\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructorConfigurations.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\InstructorConfigurations.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Configurations\\InstructorConfigurations.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\InstructorConfigurations.cs",
+              "RelativeToolTip": "EFCorePractice\\Configurations\\InstructorConfigurations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentConfigurations.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\StudentConfigurations.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Configurations\\StudentConfigurations.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\StudentConfigurations.cs",
+              "RelativeToolTip": "EFCorePractice\\Configurations\\StudentConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:22.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentCourseConfigurations.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\StudentCourseConfigurations.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Configurations\\StudentCourseConfigurations.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\StudentCourseConfigurations.cs",
+              "RelativeToolTip": "EFCorePractice\\Configurations\\StudentCourseConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:38:19.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITIDbContext.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Contexts\\ITIDbContext.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Contexts\\ITIDbContext.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Contexts\\ITIDbContext.cs",
+              "RelativeToolTip": "EFCorePractice\\Contexts\\ITIDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:15:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InstructorCourseConfogurations.cs",
+              "DocumentMoniker": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\InstructorCourseConfogurations.cs",
+              "RelativeDocumentMoniker": "EFCorePractice\\Configurations\\InstructorCourseConfogurations.cs",
+              "ToolTip": "E:\\C41 Route\\Test\\EFCore Practice\\EFCorePractice\\EFCorePractice\\Configurations\\InstructorCourseConfogurations.cs",
+              "RelativeToolTip": "EFCorePractice\\Configurations\\InstructorCourseConfogurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:38:30.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
